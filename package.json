@@ -17,11 +17,16 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "autoprefixer": "^10.2.4",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
     "node-sass": "^5.0.0",
+    "postcss-nesting": "^7.0.1",
     "sirv-cli": "^1.0.0",
-    "svelte-preprocess": "^4.6.5"
+    "svelte-preprocess": "^4.6.5",
+    "svelte-routing": "^1.5.0",
+    "svelte-watch-resize": "^1.0.3",
+    "tailwindcss": "^2.0.2"
   },
   "author": "Marco Gilles gilles.marco06@gmail.com",
   "description": "Marco Gilles's CV"
