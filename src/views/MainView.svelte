@@ -33,7 +33,7 @@ let diplomas = [
 	}
 ]
 </script>
-<style type="text/scss"></style>
+
 <nav><Appbar /></nav>
 
 <h1>Marco GILLES</h1>

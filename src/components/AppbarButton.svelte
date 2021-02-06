@@ -15,6 +15,7 @@ $border-width: 2px;
         white-space: nowrap;
     }
 }
+
 </style>
 
 <div class="appbar-button">
